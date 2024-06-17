@@ -1,0 +1,5 @@
+<style>
+img2 {
+  border-radius: 50%;
+}
+</style>
